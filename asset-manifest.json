@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/plaza-aves/static/css/main.343b8d05.chunk.css",
+    "main.js": "/plaza-aves/static/js/main.5dd136ef.chunk.js",
+    "main.js.map": "/plaza-aves/static/js/main.5dd136ef.chunk.js.map",
+    "runtime-main.js": "/plaza-aves/static/js/runtime-main.543673d0.js",
+    "runtime-main.js.map": "/plaza-aves/static/js/runtime-main.543673d0.js.map",
+    "static/css/2.4be38407.chunk.css": "/plaza-aves/static/css/2.4be38407.chunk.css",
+    "static/js/2.92a26e16.chunk.js": "/plaza-aves/static/js/2.92a26e16.chunk.js",
+    "static/js/2.92a26e16.chunk.js.map": "/plaza-aves/static/js/2.92a26e16.chunk.js.map",
+    "index.html": "/plaza-aves/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/plaza-aves/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.343b8d05.chunk.css.map": "/plaza-aves/static/css/main.343b8d05.chunk.css.map",
+    "static/js/2.92a26e16.chunk.js.LICENSE.txt": "/plaza-aves/static/js/2.92a26e16.chunk.js.LICENSE.txt",
+    "static/media/circ.JPG": "/plaza-aves/static/media/circ.8009df5b.JPG",
+    "static/media/heroback.2d7185a8.JPG": "/plaza-aves/static/media/heroback.2d7185a8.JPG",
+    "static/media/im1.6c522cf4.jpg": "/plaza-aves/static/media/im1.6c522cf4.jpg",
+    "static/media/im2.6b1b819d.jpg": "/plaza-aves/static/media/im2.6b1b819d.jpg",
+    "static/media/im3.982d6889.jpg": "/plaza-aves/static/media/im3.982d6889.jpg",
+    "static/media/im5.b1fe0ceb.jpg": "/plaza-aves/static/media/im5.b1fe0ceb.jpg",
+    "static/media/img2.f8d3aa74.JPG": "/plaza-aves/static/media/img2.f8d3aa74.JPG",
+    "static/media/locales.JPG": "/plaza-aves/static/media/locales.a6d6e59d.JPG",
+    "static/media/logo4.ec862891.png": "/plaza-aves/static/media/logo4.ec862891.png",
+    "static/media/mercado.JPG": "/plaza-aves/static/media/mercado.ee06fd31.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.543673d0.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.92a26e16.chunk.js",
+    "static/css/main.343b8d05.chunk.css",
+    "static/js/main.5dd136ef.chunk.js"
+  ]
+}
