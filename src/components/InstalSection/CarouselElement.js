@@ -23,10 +23,10 @@ const CarouselElement = () => {
           src={im1}
           alt="First slide"
         />
-        <Carousel.Caption>
+        {/* <Carousel.Caption>
           <h5>Estacionamiento Seguro</h5>
           <p>Guardias de seguridad capacitados, y Cámaras de Vigilancia las 24hrs.</p>
-        </Carousel.Caption>
+        </Carousel.Caption> */}
       </Carousel.Item>
       <Carousel.Item interval={5000}>
         <img
@@ -34,10 +34,10 @@ const CarouselElement = () => {
           src={im2}
           alt="Second slide"
         />
-        <Carousel.Caption>
+        {/* <Carousel.Caption>
           <h5>¿Quieres ser parte de Plaza Aves?</h5>
           <p>Contáctanos para saber más de nuestros locales en renta.</p>
-        </Carousel.Caption>
+        </Carousel.Caption> */}
       </Carousel.Item>
       <Carousel.Item interval={5000}>
         <img
@@ -45,10 +45,10 @@ const CarouselElement = () => {
           src={im3}
           alt="Third slide"
         />
-        <Carousel.Caption>
+        {/* <Carousel.Caption>
           <h5>Conoce nuestra Terraza</h5>
           <p>Contamos con un local de dos pisos y terraza.</p>
-        </Carousel.Caption>
+        </Carousel.Caption> */}
       </Carousel.Item>
       <Carousel.Item interval={5000}>
         <img
@@ -56,10 +56,10 @@ const CarouselElement = () => {
           src={im5}
           alt="Third slide"
         />
-        <Carousel.Caption>
+        {/* <Carousel.Caption>
           <h5>Mercado Aves</h5>
           <p>Disfruta de un snack y una deliciosa bebida en nuestro Bar Familiar.</p>
-        </Carousel.Caption>
+        </Carousel.Caption> */}
       </Carousel.Item>
     </Carousel>
   )
